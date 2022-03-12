@@ -8,5 +8,11 @@
 
 #img-div{
     background-color: white ;
-   padding : 0 auto 0 auto 0 ;
+    padding : 0 auto 0 auto 0 ;
+}
+#image{   
+    display: block;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
